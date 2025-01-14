@@ -25,7 +25,6 @@ Make sure you have the following installed:
 - [MongoDB](https://www.mongodb.com/try/download/community) (for local database, or use MongoDB Atlas)
 - [Socket.IO](https://socket.io/)
 
-### Steps to Setup Backend
 
 1. **Clone the repository**:
    ```bash
